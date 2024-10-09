@@ -150,3 +150,9 @@
  17. Dataset Successfully Refreshing on **Via API**
 
 ![image](https://github.com/rritec/powerbi/assets/20516321/d29d3341-88aa-44ed-95b9-514a77b006f5)  
+
+# Reference
+1. https://smartstatistics.co.uk/get-power-bi-refresh-status-using-power-automate/#:~:text=In%20this%20article,%20we%20explored%20an%20innovative%20workaround
+2. https://www.datadna.in/post/power-automate-get-power-bi-refresh-status#:~:text=Navigate%20to%20Settings%20%3E%20Dataflows%20%3E%20Refresh%20History,during%20the%20refresh%2C%20it%20provides%20valuable%20insights%20afterward.
+3. 
+
